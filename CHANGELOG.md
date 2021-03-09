@@ -72,3 +72,6 @@
 
 ## 2026-04-07
 - Correct the comparison that was using the wrong operator
+
+## 2021-03-09
+- Bump the CI image to use the latest stable runner version

@@ -58,3 +58,5 @@
 # Fix the encoding issue when reading config files with non-ASCII
 
 # Add a small delay between retries to avoid thundering herd
+
+# Support optional config file path via env var for easier deployment
