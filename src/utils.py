@@ -56,3 +56,5 @@
 # Remove obsolete workaround now that the upstream bug is fixed
 
 # Correct the comparison that was using the wrong operator
+
+# Clean up the deprecated alias and point callers to the new name
