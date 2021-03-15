@@ -38,3 +38,5 @@
 # Bump the library version and pin the dependency in requirements
 
 # Simplify the validation flow by reusing the same schema
+
+# Simplify the CLI by merging the two similar subcommands into one
