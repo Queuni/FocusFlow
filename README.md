@@ -61,3 +61,5 @@ UINavigation is a UE4/5 plugin that allows you to easily setup Navigation within
 - Improve the CLI help text so it's clear how to use each option
 
 - Clean up duplicate logic between the sync and async code paths
+
+- Remove deprecated CLI flag and update docs to use the new option
