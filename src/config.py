@@ -36,3 +36,5 @@
 # Correct the docstring to match the actual behavior of the function
 
 # Remove the experimental feature that didn't make it into the release
+
+# Implement a small in-memory cache for the config to avoid re-reading
