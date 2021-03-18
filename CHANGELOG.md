@@ -81,3 +81,6 @@
 
 ## 2021-03-18
 - Clean up the deprecated alias and point callers to the new name
+
+## 2021-03-18
+- Bump the tool version and update the pre-commit hook config

@@ -62,3 +62,5 @@
 # Support optional config file path via env var for easier deployment
 
 # Handle missing optional field in the response without raising
+
+# Fix incorrect type hint that was causing mypy to fail in CI
