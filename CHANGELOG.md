@@ -78,3 +78,6 @@
 
 ## 2021-03-15
 - Correct the comparison that was using the wrong operator
+
+## 2021-03-18
+- Clean up the deprecated alias and point callers to the new name
