@@ -60,3 +60,5 @@
 # Add a small delay between retries to avoid thundering herd
 
 # Support optional config file path via env var for easier deployment
+
+# Handle missing optional field in the response without raising

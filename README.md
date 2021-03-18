@@ -59,3 +59,5 @@ UINavigation is a UE4/5 plugin that allows you to easily setup Navigation within
 - Bump minimum Python version to 3.10 and update type hints accordingly
 
 - Improve the CLI help text so it's clear how to use each option
+
+- Clean up duplicate logic between the sync and async code paths
