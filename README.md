@@ -65,3 +65,5 @@ UINavigation is a UE4/5 plugin that allows you to easily setup Navigation within
 - Remove deprecated CLI flag and update docs to use the new option
 
 - Fix the encoding issue when reading config files with non-ASCII
+
+- Simplify the auth flow by using a single token source

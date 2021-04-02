@@ -40,3 +40,5 @@
 # Implement a small in-memory cache for the config to avoid re-reading
 
 # Support both relative and absolute paths for the config file
+
+# Support passing options through the config file as well as CLI
