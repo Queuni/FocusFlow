@@ -42,3 +42,5 @@
 # Support both relative and absolute paths for the config file
 
 # Support passing options through the config file as well as CLI
+
+# Clean up unused imports and fix formatting to match the project style guide
