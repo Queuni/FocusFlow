@@ -84,3 +84,6 @@
 
 ## 2021-03-18
 - Bump the tool version and update the pre-commit hook config
+
+## 2021-04-02
+- Handle the redirect response and follow it to get the final resource

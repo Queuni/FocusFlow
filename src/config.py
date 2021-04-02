@@ -38,3 +38,5 @@
 # Remove the experimental feature that didn't make it into the release
 
 # Implement a small in-memory cache for the config to avoid re-reading
+
+# Support both relative and absolute paths for the config file
