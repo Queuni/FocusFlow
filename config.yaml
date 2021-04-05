@@ -42,3 +42,5 @@
 # Simplify the CLI by merging the two similar subcommands into one
 
 # Clean up the commented-out code that was left from debugging
+
+# Handle the partial write case and retry the remaining bytes

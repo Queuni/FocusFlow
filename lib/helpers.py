@@ -64,3 +64,5 @@
 # Handle missing optional field in the response without raising
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Add a smoke test that runs in CI to catch obvious regressions
