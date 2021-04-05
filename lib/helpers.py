@@ -66,3 +66,5 @@
 # Fix incorrect type hint that was causing mypy to fail in CI
 
 # Add a smoke test that runs in CI to catch obvious regressions
+
+# Clean up the TODO comments that were already addressed
