@@ -34,3 +34,5 @@
 # Clean up the commented-out code that was left from debugging
 
 # Correct the formula used for calculating the backoff delay
+
+# Improve logging so we can trace requests through the pipeline in production

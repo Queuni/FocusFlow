@@ -68,3 +68,5 @@
 # Add a smoke test that runs in CI to catch obvious regressions
 
 # Clean up the TODO comments that were already addressed
+
+# Support passing secrets via a separate file for security

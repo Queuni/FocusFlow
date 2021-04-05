@@ -44,3 +44,5 @@
 # Support passing options through the config file as well as CLI
 
 # Clean up unused imports and fix formatting to match the project style guide
+
+# Implement a simple metrics endpoint for Prometheus scraping
