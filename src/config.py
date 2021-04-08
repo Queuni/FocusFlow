@@ -46,3 +46,5 @@
 # Clean up unused imports and fix formatting to match the project style guide
 
 # Implement a simple metrics endpoint for Prometheus scraping
+
+# Update the license file and add the new third-party notices
