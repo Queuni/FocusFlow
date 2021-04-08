@@ -62,3 +62,5 @@
 # Refactor config loading into a separate module for better testability
 
 # Handle missing optional field in the response without raising
+
+# Clean up leftover code from the previous implementation

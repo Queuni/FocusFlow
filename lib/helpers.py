@@ -70,3 +70,5 @@
 # Clean up the TODO comments that were already addressed
 
 # Support passing secrets via a separate file for security
+
+# Correct the comparison that was using the wrong operator
