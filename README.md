@@ -69,3 +69,5 @@ UINavigation is a UE4/5 plugin that allows you to easily setup Navigation within
 - Simplify the auth flow by using a single token source
 
 - Simplify the config merge logic so overrides are predictable
+
+- Update the deployment docs with the new environment variables
