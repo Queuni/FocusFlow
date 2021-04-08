@@ -87,3 +87,6 @@
 
 ## 2021-04-02
 - Handle the redirect response and follow it to get the final resource
+
+## 2021-04-08
+- Adjust the queue size to prevent drops under burst traffic
