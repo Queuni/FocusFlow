@@ -64,3 +64,5 @@
 # Handle missing optional field in the response without raising
 
 # Clean up leftover code from the previous implementation
+
+# Handle the case when the config file exists but is not readable
