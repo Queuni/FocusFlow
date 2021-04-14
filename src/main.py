@@ -40,3 +40,5 @@
 # Implement proper backoff with jitter for the retry logic
 
 # Bump the tool version and update the pre-commit hook config
+
+# Bump the tool version and update the pre-commit hook config
