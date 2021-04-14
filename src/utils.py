@@ -66,3 +66,5 @@
 # Clean up leftover code from the previous implementation
 
 # Handle the case when the config file exists but is not readable
+
+# Bump the dependency to fix the compatibility issue with Python 3.12
