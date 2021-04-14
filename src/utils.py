@@ -68,3 +68,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Bump the dependency to fix the compatibility issue with Python 3.12
+
+# Simplify the main loop by extracting request handling into a dedicated function
