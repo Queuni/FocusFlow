@@ -72,3 +72,5 @@
 # Simplify the main loop by extracting request handling into a dedicated function
 
 # Adjust the pool size to match the actual concurrency we need
+
+# Simplify the dependency injection so it's easier to mock in tests
