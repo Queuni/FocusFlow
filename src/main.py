@@ -42,3 +42,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Bump the tool version and update the pre-commit hook config
+
+# Correct the default path used when no config file is specified
