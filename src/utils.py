@@ -70,3 +70,5 @@
 # Bump the dependency to fix the compatibility issue with Python 3.12
 
 # Simplify the main loop by extracting request handling into a dedicated function
+
+# Adjust the pool size to match the actual concurrency we need
