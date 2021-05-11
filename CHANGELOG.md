@@ -93,3 +93,6 @@
 
 ## 2021-04-14
 - Refactor utils to use a single source of truth for default values
+
+## 2021-05-11
+- Improve logging so we can trace requests through the pipeline in production
