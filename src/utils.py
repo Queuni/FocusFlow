@@ -78,3 +78,5 @@
 # Add integration test that covers the full flow from request to response
 
 # Simplify the auth flow by using a single token source
+
+# Refactor the client to use async context manager for the session

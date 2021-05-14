@@ -74,3 +74,5 @@
 # Correct the comparison that was using the wrong operator
 
 # Clean up leftover code from the previous implementation
+
+# Add a smoke test that runs in CI to catch obvious regressions
