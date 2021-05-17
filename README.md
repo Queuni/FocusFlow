@@ -79,3 +79,5 @@ UINavigation is a UE4/5 plugin that allows you to easily setup Navigation within
 - Simplify the build script by using the same steps for dev and prod
 
 - Fix the encoding issue when reading config files with non-ASCII
+
+- Clean up the test fixtures and move shared data to a single file
