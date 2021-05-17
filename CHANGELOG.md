@@ -96,3 +96,6 @@
 
 ## 2021-05-11
 - Improve logging so we can trace requests through the pipeline in production
+
+## 2021-05-17
+- Improve the default config so it works out of the box for dev

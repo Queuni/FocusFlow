@@ -76,3 +76,5 @@
 # Clean up leftover code from the previous implementation
 
 # Add a smoke test that runs in CI to catch obvious regressions
+
+# Clean up the deprecated alias and point callers to the new name
