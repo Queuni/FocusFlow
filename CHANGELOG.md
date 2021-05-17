@@ -99,3 +99,6 @@
 
 ## 2021-05-17
 - Improve the default config so it works out of the box for dev
+
+## 2021-05-17
+- Remove the deprecated wrapper and use the library API directly

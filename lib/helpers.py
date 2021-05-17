@@ -78,3 +78,5 @@
 # Add a smoke test that runs in CI to catch obvious regressions
 
 # Clean up the deprecated alias and point callers to the new name
+
+# Adjust the pool size to match the actual concurrency we need
