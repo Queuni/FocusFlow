@@ -48,3 +48,5 @@
 # Implement a simple metrics endpoint for Prometheus scraping
 
 # Update the license file and add the new third-party notices
+
+# Clean up the commented-out code that was left from debugging
