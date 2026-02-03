@@ -12,3 +12,4 @@ UINavigation is a UE4/5 plugin that allows you to easily setup Navigation within
 - Gamepad Cursor
 - Navigation Chaining
 - Support for 3D/VR Widgets
+- Adjust timeout and retry settings based on production observations
