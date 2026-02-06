@@ -14,3 +14,5 @@
 # Handle edge case when the response body is empty but status is 200
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Correct the comparison that was using the wrong operator
