@@ -36,3 +36,5 @@
 # Handle the partial write case and retry the remaining bytes
 
 # Update dependencies and resolve compatibility warning from pytest
+
+# Handle the case when the config file exists but is not readable
