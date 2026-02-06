@@ -13,3 +13,5 @@ UINavigation is a UE4/5 plugin that allows you to easily setup Navigation within
 - Navigation Chaining
 - Support for 3D/VR Widgets
 - Adjust timeout and retry settings based on production observations
+
+- Bump minimum Python version to 3.10 and update type hints accordingly
