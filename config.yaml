@@ -1,2 +1,4 @@
 # config
 
+
+# Simplify the build script by using the same steps for dev and prod
