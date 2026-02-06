@@ -34,3 +34,5 @@
 # Refactor error handling to use a custom exception hierarchy
 
 # Handle the partial write case and retry the remaining bytes
+
+# Update dependencies and resolve compatibility warning from pytest
