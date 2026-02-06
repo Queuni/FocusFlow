@@ -38,3 +38,5 @@
 # Fix the encoding issue when reading config files with non-ASCII
 
 # Correct the logic that determined whether to use cache or not
+
+# Fix incorrect type hint that was causing mypy to fail in CI
