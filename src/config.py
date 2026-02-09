@@ -16,3 +16,5 @@
 # Support config reload without restart via SIGHUP or file watch
 
 # Correct the comparison that was using the wrong operator
+
+# Adjust the batch size to reduce memory usage on large inputs

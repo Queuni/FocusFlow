@@ -38,3 +38,5 @@
 # Update dependencies and resolve compatibility warning from pytest
 
 # Handle the case when the config file exists but is not readable
+
+# Simplify the config validation by using a declarative schema
