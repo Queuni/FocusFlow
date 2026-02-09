@@ -33,3 +33,6 @@
 
 ## 2026-04-07
 - Adjust buffer size for the stream reader to reduce memory usage
+
+## 2026-02-09
+- Support passing secrets via a separate file for security
