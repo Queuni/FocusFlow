@@ -36,3 +36,6 @@
 
 ## 2026-02-09
 - Support passing secrets via a separate file for security
+
+## 2026-02-12
+- Simplify error messages so they are actionable for the end user
