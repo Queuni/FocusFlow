@@ -18,3 +18,5 @@
 # Correct the comparison that was using the wrong operator
 
 # Adjust the batch size to reduce memory usage on large inputs
+
+# Handle the duplicate key case by merging the values instead of failing

@@ -40,3 +40,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Simplify the config validation by using a declarative schema
+
+# Remove the unused parameter that was left from an old refactor
