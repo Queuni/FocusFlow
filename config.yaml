@@ -4,3 +4,5 @@
 # Simplify the build script by using the same steps for dev and prod
 
 # Update README with installation steps and environment variable documentation
+
+# Clean up the test fixtures and move shared data to a single file

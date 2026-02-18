@@ -2,3 +2,5 @@
 
 
 # Correct the logic that determined whether to use cache or not
+
+# Handle edge case when the response body is empty but status is 200
