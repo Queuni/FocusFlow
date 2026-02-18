@@ -42,3 +42,5 @@
 # Fix incorrect type hint that was causing mypy to fail in CI
 
 # Improve logging so we can trace requests through the pipeline in production
+
+# Clean up leftover code from the previous implementation

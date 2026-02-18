@@ -39,3 +39,6 @@
 
 ## 2026-02-12
 - Simplify error messages so they are actionable for the end user
+
+## 2026-02-18
+- Clean up the test fixtures and move shared data to a single file
