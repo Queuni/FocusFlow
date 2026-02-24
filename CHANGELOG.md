@@ -45,3 +45,6 @@
 
 ## 2026-02-24
 - Improve performance by caching the result of the expensive lookup
+
+## 2026-02-24
+- Add proper error handling for invalid config so the app doesn't crash on startup

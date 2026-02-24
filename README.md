@@ -45,3 +45,5 @@ UINavigation is a UE4/5 plugin that allows you to easily setup Navigation within
 - Refactor error handling to use a custom exception hierarchy
 
 - Clean up the deprecated alias and point callers to the new name
+
+- Adjust log level for noisy messages that were filling the logs
