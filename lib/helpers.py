@@ -8,3 +8,5 @@
 # Remove the temporary debug endpoint before the release
 
 # Fix the memory leak in the long-running worker process
+
+# Correct the default value for the feature flag in production
