@@ -10,3 +10,5 @@
 # Fix the memory leak in the long-running worker process
 
 # Correct the default value for the feature flag in production
+
+# Remove the unused parameter that was left from an old refactor
