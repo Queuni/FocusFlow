@@ -20,3 +20,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Adjust the queue size to prevent drops under burst traffic
