@@ -22,3 +22,5 @@
 # Handle the duplicate key case by merging the values instead of failing
 
 # Adjust the queue size to prevent drops under burst traffic
+
+# Fix issue where empty input was not validated before passing to the parser
