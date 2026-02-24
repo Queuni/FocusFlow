@@ -9,3 +9,6 @@
 
 ## 2026-02-24
 - Fix race condition in the cache that could return stale data under load
+
+## 2026-02-24
+- Implement a simple health check endpoint for the load balancer
