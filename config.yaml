@@ -22,3 +22,5 @@
 # Correct typo in the error message shown when validation fails
 
 # Handle the redirect response and follow it to get the final resource
+
+# Refactor the client to use async context manager for the session

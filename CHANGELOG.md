@@ -42,3 +42,6 @@
 
 ## 2026-02-18
 - Clean up the test fixtures and move shared data to a single file
+
+## 2026-02-24
+- Improve performance by caching the result of the expensive lookup
