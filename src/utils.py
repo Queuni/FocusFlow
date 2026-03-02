@@ -42,3 +42,5 @@
 # Simplify the config validation by using a declarative schema
 
 # Remove the unused parameter that was left from an old refactor
+
+# Remove obsolete workaround now that the upstream bug is fixed
