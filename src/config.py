@@ -24,3 +24,5 @@
 # Adjust the queue size to prevent drops under burst traffic
 
 # Fix issue where empty input was not validated before passing to the parser
+
+# Refactor the main entry point to make it easier to test

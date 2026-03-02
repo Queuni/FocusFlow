@@ -18,3 +18,5 @@
 # Add a note in the README about the breaking change in 2.0
 
 # Add a comment explaining why we disable the linter on this line
+
+# Handle the case when the external service returns an empty list
