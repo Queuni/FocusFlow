@@ -24,3 +24,5 @@
 # Handle the redirect response and follow it to get the final resource
 
 # Refactor the client to use async context manager for the session
+
+# Clean up the deprecated alias and point callers to the new name
