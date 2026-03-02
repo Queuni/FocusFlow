@@ -8,3 +8,5 @@
 # Improve error message when the required env var is not set
 
 # Fix the ordering of middleware so auth runs before the handler
+
+# Clean up duplicate logic between the sync and async code paths
