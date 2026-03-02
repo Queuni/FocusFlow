@@ -14,3 +14,5 @@
 # Remove the unused parameter that was left from an old refactor
 
 # Remove the temporary debug endpoint before the release
+
+# Add integration test that covers the full flow from request to response

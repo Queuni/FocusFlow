@@ -23,3 +23,5 @@ UINavigation is a UE4/5 plugin that allows you to easily setup Navigation within
 - Adjust buffer size for the stream reader to reduce memory usage
 
 - Correct the default path used when no config file is specified
+
+- Correct the docstring to match the actual behavior of the function
