@@ -6,3 +6,5 @@
 # Handle the partial write case and retry the remaining bytes
 
 # Improve error message when the required env var is not set
+
+# Fix the ordering of middleware so auth runs before the handler
