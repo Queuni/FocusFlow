@@ -26,3 +26,5 @@
 # Fix issue where empty input was not validated before passing to the parser
 
 # Refactor the main entry point to make it easier to test
+
+# Support both YAML and JSON config formats for flexibility

@@ -20,3 +20,5 @@
 # Add a comment explaining why we disable the linter on this line
 
 # Handle the case when the external service returns an empty list
+
+# Improve error message when the required env var is not set
