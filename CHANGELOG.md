@@ -48,3 +48,6 @@
 
 ## 2026-02-24
 - Add proper error handling for invalid config so the app doesn't crash on startup
+
+## 2026-03-05
+- Handle connection reset by the peer without crashing the worker

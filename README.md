@@ -49,3 +49,5 @@ UINavigation is a UE4/5 plugin that allows you to easily setup Navigation within
 - Adjust log level for noisy messages that were filling the logs
 
 - Simplify the config merge logic so overrides are predictable
+
+- Bump version to 1.2.0 and add changelog entry for the new features

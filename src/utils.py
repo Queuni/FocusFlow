@@ -44,3 +44,5 @@
 # Remove the unused parameter that was left from an old refactor
 
 # Remove obsolete workaround now that the upstream bug is fixed
+
+# Update the deployment docs with the new environment variables
