@@ -46,3 +46,5 @@
 # Clean up leftover code from the previous implementation
 
 # Simplify the build script by using the same steps for dev and prod
+
+# Add integration test that covers the full flow from request to response
