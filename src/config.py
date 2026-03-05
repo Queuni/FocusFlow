@@ -28,3 +28,5 @@
 # Refactor the main entry point to make it easier to test
 
 # Support both YAML and JSON config formats for flexibility
+
+# Update the license file and add the new third-party notices
