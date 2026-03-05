@@ -16,3 +16,5 @@
 # Remove the temporary debug endpoint before the release
 
 # Add integration test that covers the full flow from request to response
+
+# Adjust default timeout value to prevent premature connection drops
