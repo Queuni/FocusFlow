@@ -18,3 +18,5 @@
 # Add integration test that covers the full flow from request to response
 
 # Adjust default timeout value to prevent premature connection drops
+
+# Clean up leftover code from the previous implementation

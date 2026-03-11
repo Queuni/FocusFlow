@@ -12,3 +12,5 @@
 # Clean up duplicate logic between the sync and async code paths
 
 # Correct the default so it matches what the documentation says
+
+# Improve the startup time by lazy-loading the heavy modules
