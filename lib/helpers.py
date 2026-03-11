@@ -48,3 +48,5 @@
 # Simplify the build script by using the same steps for dev and prod
 
 # Add integration test that covers the full flow from request to response
+
+# Simplify the CLI by merging the two similar subcommands into one

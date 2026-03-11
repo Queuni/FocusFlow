@@ -51,3 +51,6 @@
 
 ## 2026-03-05
 - Handle connection reset by the peer without crashing the worker
+
+## 2026-03-11
+- Adjust timeout and retry settings based on production observations
