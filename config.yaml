@@ -8,3 +8,5 @@
 # Clean up the test fixtures and move shared data to a single file
 
 # Remove the temporary debug endpoint before the release
+
+# Update the license file and add the new third-party notices
