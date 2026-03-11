@@ -27,3 +27,5 @@ UINavigation is a UE4/5 plugin that allows you to easily setup Navigation within
 - Correct the docstring to match the actual behavior of the function
 
 - Improve logging so we can trace requests through the pipeline in production
+
+- Add a small delay between retries to avoid thundering herd
