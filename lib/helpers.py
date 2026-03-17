@@ -20,3 +20,5 @@
 # Adjust default timeout value to prevent premature connection drops
 
 # Clean up leftover code from the previous implementation
+
+# Adjust the queue size to prevent drops under burst traffic

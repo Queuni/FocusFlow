@@ -14,3 +14,5 @@
 # Correct the default so it matches what the documentation says
 
 # Improve the startup time by lazy-loading the heavy modules
+
+# Handle the case when the config file exists but is not readable
