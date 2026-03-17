@@ -46,3 +46,5 @@
 # Remove obsolete workaround now that the upstream bug is fixed
 
 # Update the deployment docs with the new environment variables
+
+# Bump the tool version and update the pre-commit hook config
