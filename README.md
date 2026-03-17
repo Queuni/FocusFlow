@@ -33,3 +33,5 @@ UINavigation is a UE4/5 plugin that allows you to easily setup Navigation within
 - Correct the docstring to match the actual behavior of the function
 
 - Adjust buffer size for the stream reader to reduce memory usage
+
+- Adjust the pool size to match the actual concurrency we need
