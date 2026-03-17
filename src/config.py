@@ -8,3 +8,5 @@
 # Support config reload without restart via SIGHUP or file watch
 
 # Improve the setup script to check for required tools before running
+
+# Update documentation to reflect the new API and usage examples
