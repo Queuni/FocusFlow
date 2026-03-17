@@ -48,3 +48,5 @@
 # Update the deployment docs with the new environment variables
 
 # Bump the tool version and update the pre-commit hook config
+
+# Improve the default config so it works out of the box for dev
