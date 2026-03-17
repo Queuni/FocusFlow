@@ -16,3 +16,5 @@
 # Improve the startup time by lazy-loading the heavy modules
 
 # Handle the case when the config file exists but is not readable
+
+# Improve the CLI help text so it's clear how to use each option
