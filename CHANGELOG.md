@@ -54,3 +54,6 @@
 
 ## 2026-03-11
 - Adjust timeout and retry settings based on production observations
+
+## 2026-03-17
+- Simplify error messages so they are actionable for the end user
