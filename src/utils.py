@@ -18,3 +18,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Improve the CLI help text so it's clear how to use each option
+
+# Implement request ID propagation for better tracing across services

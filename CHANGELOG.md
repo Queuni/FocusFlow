@@ -12,3 +12,6 @@
 
 ## 2026-02-24
 - Implement a simple health check endpoint for the load balancer
+
+## 2026-03-20
+- Refactor the main entry point to make it easier to test
