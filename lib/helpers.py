@@ -24,3 +24,5 @@
 # Adjust the queue size to prevent drops under burst traffic
 
 # Improve error message when the required env var is not set
+
+# Bump the CI image to use the latest stable runner version
