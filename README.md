@@ -55,3 +55,5 @@ UINavigation is a UE4/5 plugin that allows you to easily setup Navigation within
 - Handle the duplicate key case by merging the values instead of failing
 
 - Add integration test that covers the full flow from request to response
+
+- Bump minimum Python version to 3.10 and update type hints accordingly
