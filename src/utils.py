@@ -50,3 +50,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Improve the default config so it works out of the box for dev
+
+# Simplify the build script by using the same steps for dev and prod
