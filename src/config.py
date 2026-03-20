@@ -30,3 +30,5 @@
 # Support both YAML and JSON config formats for flexibility
 
 # Update the license file and add the new third-party notices
+
+# Simplify the validation flow by reusing the same schema

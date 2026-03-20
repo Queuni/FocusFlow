@@ -57,3 +57,6 @@
 
 ## 2026-03-17
 - Simplify error messages so they are actionable for the end user
+
+## 2026-03-20
+- Refactor config loading into a separate module for better testability
