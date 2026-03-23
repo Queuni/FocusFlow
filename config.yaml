@@ -32,3 +32,5 @@
 # Support custom headers in the client for API key or auth tokens
 
 # Adjust the queue size to prevent drops under burst traffic
+
+# Simplify the auth flow by using a single token source

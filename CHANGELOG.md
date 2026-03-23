@@ -60,3 +60,6 @@
 
 ## 2026-03-20
 - Refactor config loading into a separate module for better testability
+
+## 2026-03-23
+- Fix the off-by-one error in the date range iterator

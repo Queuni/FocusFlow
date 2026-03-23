@@ -54,3 +54,5 @@
 # Add integration test that covers the full flow from request to response
 
 # Improve test coverage for the helpers module to above 90%
+
+# Fix the encoding issue when reading config files with non-ASCII
