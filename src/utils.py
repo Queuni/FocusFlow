@@ -22,3 +22,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Clean up the test fixtures and move shared data to a single file
+
+# Correct the default so it matches what the documentation says
