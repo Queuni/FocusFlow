@@ -24,3 +24,5 @@
 # Clean up the test fixtures and move shared data to a single file
 
 # Correct the default so it matches what the documentation says
+
+# Fix the encoding issue when reading config files with non-ASCII

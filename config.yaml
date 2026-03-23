@@ -14,3 +14,5 @@
 # Support both YAML and JSON config formats for flexibility
 
 # Correct the default value for the feature flag in production
+
+# Correct typo in the error message shown when validation fails
