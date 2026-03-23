@@ -28,3 +28,5 @@
 # Bump the CI image to use the latest stable runner version
 
 # Update the license file and add the new third-party notices
+
+# Adjust the queue size to prevent drops under burst traffic

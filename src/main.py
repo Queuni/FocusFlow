@@ -6,3 +6,5 @@
 # Improve error message when the required env var is not set
 
 # Bump the Docker base image to get the latest security patches
+
+# Bump the library version and pin the dependency in requirements
