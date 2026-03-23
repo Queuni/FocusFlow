@@ -20,3 +20,5 @@
 # Improve the CLI help text so it's clear how to use each option
 
 # Implement request ID propagation for better tracing across services
+
+# Clean up the test fixtures and move shared data to a single file

@@ -26,3 +26,5 @@
 # Improve error message when the required env var is not set
 
 # Bump the CI image to use the latest stable runner version
+
+# Update the license file and add the new third-party notices
