@@ -15,3 +15,6 @@
 
 ## 2026-03-20
 - Refactor the main entry point to make it easier to test
+
+## 2026-03-23
+- Clean up unused imports and fix formatting to match the project style guide

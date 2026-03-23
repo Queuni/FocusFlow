@@ -26,3 +26,5 @@
 # Correct the default so it matches what the documentation says
 
 # Fix the encoding issue when reading config files with non-ASCII
+
+# Bump version to 1.2.0 and add changelog entry for the new features

@@ -32,3 +32,5 @@
 # Adjust the queue size to prevent drops under burst traffic
 
 # Support environment-specific overrides via separate config files
+
+# Update documentation to reflect the new API and usage examples
