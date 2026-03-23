@@ -34,3 +34,5 @@
 # Adjust the queue size to prevent drops under burst traffic
 
 # Simplify the auth flow by using a single token source
+
+# Bump the library version and pin the dependency in requirements
