@@ -34,3 +34,5 @@
 # Support environment-specific overrides via separate config files
 
 # Update documentation to reflect the new API and usage examples
+
+# Fix the encoding issue when reading config files with non-ASCII

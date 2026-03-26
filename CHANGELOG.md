@@ -18,3 +18,6 @@
 
 ## 2026-03-23
 - Clean up unused imports and fix formatting to match the project style guide
+
+## 2026-03-26
+- Improve performance by caching the result of the expensive lookup
