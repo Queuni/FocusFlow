@@ -28,3 +28,5 @@
 # Fix the encoding issue when reading config files with non-ASCII
 
 # Bump version to 1.2.0 and add changelog entry for the new features
+
+# Refactor exports so the public API is clearer and easier to use
