@@ -66,3 +66,6 @@
 
 ## 2026-03-23
 - Update the deployment docs with the new environment variables
+
+## 2026-03-26
+- Implement fallback to default value when config key is missing

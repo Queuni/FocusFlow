@@ -52,3 +52,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Simplify the build script by using the same steps for dev and prod
+
+# Remove obsolete workaround now that the upstream bug is fixed
