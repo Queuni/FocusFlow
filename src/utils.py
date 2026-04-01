@@ -30,3 +30,5 @@
 # Bump version to 1.2.0 and add changelog entry for the new features
 
 # Refactor exports so the public API is clearer and easier to use
+
+# Refactor error handling to use a custom exception hierarchy
