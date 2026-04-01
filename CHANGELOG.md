@@ -24,3 +24,6 @@
 
 ## 2026-04-01
 - Handle the case when the external service returns an empty list
+
+## 2026-04-01
+- Support loading config from multiple files with later overriding earlier
