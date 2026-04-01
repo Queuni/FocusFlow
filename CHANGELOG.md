@@ -21,3 +21,6 @@
 
 ## 2026-03-26
 - Improve performance by caching the result of the expensive lookup
+
+## 2026-04-01
+- Handle the case when the external service returns an empty list

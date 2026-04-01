@@ -36,3 +36,5 @@
 # Update documentation to reflect the new API and usage examples
 
 # Fix the encoding issue when reading config files with non-ASCII
+
+# Correct the logic that determined whether to use cache or not
