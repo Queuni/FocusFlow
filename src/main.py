@@ -10,3 +10,5 @@
 # Bump the library version and pin the dependency in requirements
 
 # Bump version to 1.2.0 and add changelog entry for the new features
+
+# Correct typo in the error message shown when validation fails

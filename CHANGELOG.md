@@ -27,3 +27,6 @@
 
 ## 2026-04-01
 - Support loading config from multiple files with later overriding earlier
+
+## 2026-04-07
+- Handle edge case when the response body is empty but status is 200

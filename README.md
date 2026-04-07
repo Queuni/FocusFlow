@@ -37,3 +37,5 @@ UINavigation is a UE4/5 plugin that allows you to easily setup Navigation within
 - Adjust the pool size to match the actual concurrency we need
 
 - Add a unit test for the edge case when the list is empty
+
+- Clean up the commented-out code that was left from debugging
