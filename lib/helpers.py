@@ -56,3 +56,5 @@
 # Improve test coverage for the helpers module to above 90%
 
 # Fix the encoding issue when reading config files with non-ASCII
+
+# Add a small delay between retries to avoid thundering herd

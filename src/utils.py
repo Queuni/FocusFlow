@@ -54,3 +54,5 @@
 # Simplify the build script by using the same steps for dev and prod
 
 # Remove obsolete workaround now that the upstream bug is fixed
+
+# Correct the comparison that was using the wrong operator
