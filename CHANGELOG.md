@@ -30,3 +30,6 @@
 
 ## 2026-04-07
 - Handle edge case when the response body is empty but status is 200
+
+## 2026-04-07
+- Adjust buffer size for the stream reader to reduce memory usage

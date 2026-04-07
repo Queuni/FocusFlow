@@ -16,3 +16,5 @@
 # Correct the default value for the feature flag in production
 
 # Correct typo in the error message shown when validation fails
+
+# Refactor the parser to use a proper state machine instead of regex
