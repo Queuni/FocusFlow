@@ -36,3 +36,5 @@
 # Simplify the auth flow by using a single token source
 
 # Bump the library version and pin the dependency in requirements
+
+# Simplify the validation flow by reusing the same schema

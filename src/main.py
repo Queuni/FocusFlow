@@ -24,3 +24,5 @@
 # Improve error message when the required env var is not set
 
 # Support optional config file path via env var for easier deployment
+
+# Bump minimum Python version to 3.10 and update type hints accordingly
