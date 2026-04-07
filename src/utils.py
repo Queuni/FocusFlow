@@ -32,3 +32,5 @@
 # Refactor exports so the public API is clearer and easier to use
 
 # Refactor error handling to use a custom exception hierarchy
+
+# Handle the partial write case and retry the remaining bytes

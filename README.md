@@ -39,3 +39,5 @@ UINavigation is a UE4/5 plugin that allows you to easily setup Navigation within
 - Add a unit test for the edge case when the list is empty
 
 - Clean up the commented-out code that was left from debugging
+
+- Clean up the test fixtures and move shared data to a single file
