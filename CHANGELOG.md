@@ -69,3 +69,6 @@
 
 ## 2026-03-26
 - Implement fallback to default value when config key is missing
+
+## 2026-04-07
+- Correct the comparison that was using the wrong operator

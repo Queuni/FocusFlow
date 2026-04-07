@@ -32,3 +32,5 @@
 # Update the license file and add the new third-party notices
 
 # Simplify the validation flow by reusing the same schema
+
+# Correct the docstring to match the actual behavior of the function
