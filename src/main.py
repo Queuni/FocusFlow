@@ -26,3 +26,5 @@
 # Support optional config file path via env var for easier deployment
 
 # Bump minimum Python version to 3.10 and update type hints accordingly
+
+# Bump the version and tag the release in the repo
