@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "3.15.10",
+	"FriendlyName": "UI Navigation",
+	"Description": "A plugin that allows you to easily setup mouse, keyboard and controller navigation in UMG, among other things.",
+	"Category": "User Interface",
+	"DocsURL": "",
+	"EngineVersion": "5.7.0",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "UINavigation",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Linux"
+			],
+			"BlacklistPlatforms": [
+				"IOS"
+			]
+		},
+		{
+			"Name": "UINavigationEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		}
+	]
+}
